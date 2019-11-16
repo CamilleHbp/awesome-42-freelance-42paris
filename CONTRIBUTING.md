@@ -2,6 +2,7 @@
 
 ## Creating your own awesome freelance list
 
+To create your own campus list, please either fork the repository or create one as **awesome-42-freelance-`campus-name`**, and create a pull request in the original list to add your list to the repo.
 To create your own list, you can copy start from the [template](TEMPLATE.md) and fill it as you need.
 You can alter the presentation if you like, but try to do that only if you **really** need it.
 
