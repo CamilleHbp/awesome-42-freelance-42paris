@@ -1,10 +1,10 @@
 # Awesome 42 Freelance - 42paris
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 List of tips and tool for 42 freelances. Inspired by [awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr). Most tools are only useful/available in France.
-If you wish to create your own list for your campus, feel free to fork the repo and adapt it to your needs, or grab the `TEMPLATE.md` file and create your own.
-
-The first item on the list will always be a list of all **awesome-42-freelance-`#CAMPUS`** github repositories.
+If you wish to create your own list for your campus, feel free to fork the repo and adapt it to your needs or grab the [template](TEMPLATE.md) file and create your own.
+If you wish to contribute, follow the [contributing guidelines](CONTRIBUTING.md)
 
 - [Awesome 42 Freelance - 42paris](#awesome-42-freelance---42paris)
   - [Awesome 42 Freelance lists by Campus](#awesome-42-freelance-lists-by-campus)
@@ -29,7 +29,7 @@ The first item on the list will always be a list of all **awesome-42-freelance-`
     - [Comptabilité](#comptabilit%c3%a9)
     - [SEO](#seo)
   - [License](#license)
-  
+
 ## Awesome 42 Freelance lists by Campus
 
 - [42paris](https://github.com/CamilleBC/awesome-42-freelance-42paris)
@@ -100,7 +100,7 @@ Le nombre de retours possible en cas de definition d'une charte graphique, etc.
 
 | Service                                                                                          | Tarif                                                       | Description                             |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- | --------------------------------------- |
-| [Calculateur avantage en nature automobile](https://adriantombu.github.io/avantage-nature-auto/) | [free](https://github.com/adriantombu/avantage-nature-auto) | dernière mise-à-jour: *11 juillet 2018* |
+| [Calculateur avantage en nature automobile](https://adriantombu.github.io/avantage-nature-auto/) | [free](https://github.com/adriantombu/avantage-nature-auto) | dernière mise-à-jour: _11 juillet 2018_ |
 | [Calculateur de cotisations sociales by Kickbanking](https://simulation.kickbanking.com/)        | free                                                        |                                         |
 
 ### Mise en relation
