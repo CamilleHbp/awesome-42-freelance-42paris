@@ -8,6 +8,7 @@ If you wish to contribute, follow the [contributing guidelines](CONTRIBUTING.md)
 
 - [Awesome 42 Freelance - 42paris](#awesome-42-freelance---42paris)
   - [Awesome 42 Freelance lists by Campus](#awesome-42-freelance-lists-by-campus)
+  - [Contenu privé](#contenu-priv%c3%a9)
   - [42genesys: Junior Entreprise de 42](#42genesys-junior-entreprise-de-42)
   - [Etapes de vie d'un projet](#etapes-de-vie-dun-projet)
     - [Définition du projet](#d%c3%a9finition-du-projet)
@@ -33,6 +34,10 @@ If you wish to contribute, follow the [contributing guidelines](CONTRIBUTING.md)
 ## Awesome 42 Freelance lists by Campus
 
 - [42paris](https://github.com/CamilleBC/awesome-42-freelance-42paris)
+
+## Contenu privé
+
+Certains contenus ne peuvent être partagés dans le domaine public. Vous pourrez les trouver dans le repo [awesome-42-freelance-42paris-private](https://github.com/CamilleBC/awesome-42-freelance-42paris-private), à condition d'avoir fait la demande dans le slack pour y etre ajouté.
 
 ## 42genesys: Junior Entreprise de 42
 
