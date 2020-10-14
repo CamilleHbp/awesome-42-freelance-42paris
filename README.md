@@ -9,7 +9,7 @@ If you wish to contribute, follow the [contributing guidelines](CONTRIBUTING.md)
 - [Awesome 42 Freelance - 42paris](#awesome-42-freelance---42paris)
   - [Awesome 42 Freelance lists by Campus](#awesome-42-freelance-lists-by-campus)
   - [Contenu privé](#contenu-priv%c3%a9)
-  - [42genesys: Junior Entreprise de 42](#42genesys-junior-entreprise-de-42)
+  - [Junior 42 Paris: Junior Entreprise de 42](#junior-42-paris-junior-entreprise-de-42)
   - [Etapes de vie d'un projet](#etapes-de-vie-dun-projet)
     - [Définition du projet](#d%c3%a9finition-du-projet)
     - [Redaction du contrat](#redaction-du-contrat)
@@ -39,17 +39,17 @@ If you wish to contribute, follow the [contributing guidelines](CONTRIBUTING.md)
 
 Certains contenus ne peuvent être partagés dans le domaine public. Vous pourrez les trouver dans le repo [awesome-42-freelance-42paris-private](https://github.com/CamilleBC/awesome-42-freelance-42paris-private), à condition d'avoir fait la demande dans le slack pour y etre ajouté.
 
-## 42genesys: Junior Entreprise de 42
+## Junior 42 Paris: Junior Entreprise de 42
 
-EDIT: 42gensys n'existe malheureusement plus !
+EDIT: 42gensys n'existe malheureusement plus ! Mais bonne nouvelle ! Junior 42 Paris est la pour prendre le relais !
 
-~~Si vous souhaitez vous lancer en freelance mais n'avez aucune idée de par où commencer, 42genesys peut vous aider a mettre un pied dans cet univers.~~
+Si vous souhaitez vous lancer en freelance mais n'avez aucune idée de par où commencer, Junior 42 Paris peut vous aider a mettre un pied dans cet univers.
 
-~~Il s'agit d'une Junior Entreprise, qui recherchera les propositions de freelancing, négociera les tarifs et rédigera les contrats. De cette manière, vous êtes entièrement protégés, le client sait qu'il a affaire à des etudiants, et vous pouvez vous lancer sur une mission sereinement. En contrepartie, la rémuneration sera moindre.~~
+Il s'agit d'une Junior Entreprise, qui recherchera les propositions de freelancing, négociera les tarifs et rédigera les contrats. De cette manière, vous êtes entièrement protégés, le client sait qu'il a affaire à des etudiants, et vous pouvez vous lancer sur une mission sereinement. En contrepartie, la rémuneration sera moindre.
 
-- ~~Site: [http://42genesys.fr](http://42genesys.fr)~~
-- ~~Channel slack: `#42paris_asso_42genesys`~~
-- ~~E-mail: contact@42genesys.fr~~
+- Slack: [junior-42paris.slack.com](https://junior-42paris.slack.com/signup)
+- Channel slack 42: `#42paris_club_junior`
+- Twitter: @j42_paris
 
 ## Etapes de vie d'un projet
 
