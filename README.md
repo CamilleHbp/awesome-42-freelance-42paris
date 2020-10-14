@@ -41,13 +41,15 @@ Certains contenus ne peuvent être partagés dans le domaine public. Vous pourre
 
 ## 42genesys: Junior Entreprise de 42
 
-Si vous souhaitez vous lancer en freelance mais n'avez aucune idée de par où commencer, 42genesys peut vous aider a mettre un pied dans cet univers.
+EDIT: 42gensys n'existe malheureusement plus !
 
-Il s'agit d'une Junior Entreprise, qui recherchera les propositions de freelancing, négociera les tarifs et rédigera les contrats. De cette manière, vous êtes entièrement protégés, le client sait qu'il a affaire à des etudiants, et vous pouvez vous lancer sur une mission sereinement. En contrepartie, la rémuneration sera moindre.
+~~Si vous souhaitez vous lancer en freelance mais n'avez aucune idée de par où commencer, 42genesys peut vous aider a mettre un pied dans cet univers.~~
 
-- Site: [http://42genesys.fr](http://42genesys.fr)
-- Channel slack: `#42paris_asso_42genesys`
-- E-mail: contact@42genesys.fr
+~~Il s'agit d'une Junior Entreprise, qui recherchera les propositions de freelancing, négociera les tarifs et rédigera les contrats. De cette manière, vous êtes entièrement protégés, le client sait qu'il a affaire à des etudiants, et vous pouvez vous lancer sur une mission sereinement. En contrepartie, la rémuneration sera moindre.~~
+
+- ~~Site: [http://42genesys.fr](http://42genesys.fr)~~
+- ~~Channel slack: `#42paris_asso_42genesys`~~
+- ~~E-mail: contact@42genesys.fr~~
 
 ## Etapes de vie d'un projet
 
